@@ -63,3 +63,9 @@ A centralized logging system may be implemented to help with debugging and issue
 ### Deployment and Orchestration
 
 Container orchestration via Kubernetes can be used to manage the deployment, scaling and availability of microservices.
+
+## Resoures / References
+- [Ania Kubow - I build a web scraper to find the BIGGEST deals to flip on Amazon $$$](https://www.youtube.com/watch?v=2hSC2HaPJDA)
+- [Traversey Media - Intro to Web Scraping with Puppeteer](https://www.youtube.com/watch?v=S67gyqnYHmI)
+- [Beyond Fireship - Industrial-scale Web Scraping with AI & Proxy Networks](https://www.youtube.com/watch?v=qo_fUjb02ns)
+- [Tech with Tim - Web Scraping 101: A Million Dollar Project Idea](https://www.youtube.com/watch?v=DJnH0jR8y5Q)
